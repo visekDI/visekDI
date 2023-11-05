@@ -12,6 +12,17 @@
 * ⚡со мной можно связаться по почте [visekDI@yandex.ru](mailto:visekDI@yandex.ru)
 * 💬<a href="https://t.me/visekdickies">или написать мне Telegram</a>
 
+### Социальные сети
+
+<p align="left"> </p> <a href="https://www.github.com/visekDI" target="_blank" rel="noreferrer"> <picture> <source media="(предпочитает цветовую схему: темная)" srcset="https ://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: Light)" srcset="https ://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/ main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/d" target="_blank" rel="noreferrer"> <picture> <source media="(предпочитает цветовую схему: темная)" srcset="undefined " /> <source media="(предпочитает-цветовую-схему: светлая)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" / > <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </а>
+
+### Значки
+
+<a href="https://github.com/visekDI" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visekDI&langs_count =10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Лучшие языки" /></a>
+
+<b>Лучшие репозитории</b>
+
+<div width="100%" align="center"> </div><br /><br /><br /><br /><br /><br /><br />
 
 ### Технологии
 <div align="center">

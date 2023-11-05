@@ -1,9 +1,8 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://cdn.dribbble.com/users/375867/screenshots/3136248/snake_enemy_game_character.gif" width="100"/>
+</div>
 
-<!--
-**visekDI/visekDI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Привет👋 меня зовут Василий, я начинающий Python Developer 🐍
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

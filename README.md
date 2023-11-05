@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/375867/screenshots/3136248/snake_enemy_game_character.gif"/>
+  <img src="https://cdn.dribbble.com/users/375867/screenshots/3136248/snake_enemy_game_character.gif" width="600" height="300"/> 
 </div>
 
 Привет👋 меня зовут Василий, я начинающий Python Developer 🐍
